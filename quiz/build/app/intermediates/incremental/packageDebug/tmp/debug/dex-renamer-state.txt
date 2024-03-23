@@ -1,0 +1,4 @@
+#Sun Mar 24 01:05:21 EET 2024
+base.0=G\:\\mobile\\[GigaCourse.Com] Udemy - Flutter Dart The Complete Guide 2023 Edition\\demoes\\flutter_demo\\quiz\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
